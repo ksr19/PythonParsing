@@ -1,0 +1,8 @@
+# Virtual Enviroment
+venv/
+
+# PyCharm
+.idea
+
+# Lectures
+.pdf
