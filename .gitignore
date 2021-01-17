@@ -6,3 +6,6 @@ venv/
 
 # Lectures
 .pdf
+
+# Enviromental variables
+.env
